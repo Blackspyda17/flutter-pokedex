@@ -2,6 +2,12 @@
 
 This Flutter application serves as a digital encyclopedia that allows users to explore a collection of Pokemon and view comprehensive information about each creature.
 
+## Snapshots
+
+<img width="300" width=“500” src="snapshots/snapshot_1.gif"></img>
+<img width="300" width=“500” src="snapshots/snapshot_2.gif"></img>
+
+
 ## Features
 
 1. Browse a gallery of Pokemon with seamless pagination.
